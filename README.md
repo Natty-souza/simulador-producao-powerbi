@@ -45,5 +45,9 @@ Demonstrar a integração entre coleta de dados, banco de dados e ferramentas de
 Projeto desenvolvido para fins de estudo e evolução profissional.
 
 ## 📊 Dashboard
+
+<img width="1358" height="713" alt="Captura de tela 2026-04-06 213422" src="https://github.com/user-attachments/assets/dd099b8c-00a6-46c9-b2a6-d3e783528ca7" />
+
+
  <img width="576" height="328" alt="Captura de tela 2026-04-06 191243" src="https://github.com/user-attachments/assets/a4297657-635a-46d3-81f8-99a56549d885" />
 
